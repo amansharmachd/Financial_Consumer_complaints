@@ -12,8 +12,11 @@ Financial Conusmer Complaints analysis : Financial complaints analysis insights 
 Tech Stack
 
 The dashboard was built using the following tools and technologies.
+
 Power BI Desktop - Main data Visualisation platform used for report creation.
+
 Power Query - Data transformation and Cleaning layer for reshaping and preparing the data.
+
 DAX - Used for calculated measures, dynamic visuals, and conditional logic.
 
 Dashboard
