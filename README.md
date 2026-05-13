@@ -5,8 +5,8 @@ Financial Conusmer Complaints analysis : Financial complaints analysis insights 
 
 
 2. Project Purpose
-3. 
-4. The objective of this project is to analyze 62k+ Financial consumer complaints received through various medias against financial companies and identifying patterns , customer issues and response efficiency.
+ 
+ The objective of this project is to analyze 62k+ Financial consumer complaints received through various medias against financial companies and identifying patterns , customer issues and response efficiency.
 
 Tech Stack
 
