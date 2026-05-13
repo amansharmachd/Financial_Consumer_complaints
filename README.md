@@ -1,6 +1,7 @@
 Financial Consumer Complaints Analysis
 
 1.	Project Headline
+
 Financial Conusmer Complaints analysis : Financial complaints analysis insights Dashboard A dynamic, interactive data visualization tool built to explore various types of financial consumer complaints - focusing on all types of complaints by consumers through different medias.
 
 
